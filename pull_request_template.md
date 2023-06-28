@@ -12,16 +12,16 @@
 
 ## What type of PR is this? (check all applicable)
 
-- [ ] 🍕 Feature
-- [ ] 🐛 Bug Fix
-- [ ] 📝 Documentation Update
-- [ ] 🧑‍💻 Code Refactor
-- [ ] 🔥 Performance Improvements
-- [ ] ✅ Test
-- [ ] 🤖 Build
-- [ ] 🔁 CI
-- [ ] 📦 Chore (Release)
-- [ ] ⏩ Revert
+- [] 🍕 Feature
+- [] 🐛 Bug Fix
+- [] 📝 Documentation Update
+- [] 🧑‍💻 Code Refactor
+- [] 🔥 Performance Improvements
+- [] ✅ Test
+- [] 🤖 Build
+- [] 🔁 CI
+- [] 📦 Chore (Release)
+- [] ⏩ Revert
 
 ## Description
 
@@ -39,15 +39,15 @@ https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-git
 
 ## Added tests?
 
-- [ ] 👍 yes
-- [ ] 🙅 no, because they aren't needed
-- [ ] 🙋 no, because I need help
+- [] 👍 yes
+- [] 🙅 no, because they aren't needed
+- [] 🙋 no, because I need help
 
 ## Added to documentation?
 
-- [ ] 📜 yes, in swagger/scribe.
-- [ ] 📓 yes, in confluence.
-- [ ] 🙅 no, documentation not needed
+- [] 📜 yes, in swagger/scribe.
+- [] 📓 yes, in confluence.
+- [] 🙅 no, documentation not needed
 
 ## [optional] Are there any post-deployment tasks we need to perform?
 
