@@ -41,7 +41,6 @@ https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-git
 
 - [ ] 👍 yes
 - [ ] 🙅 no, because they aren't needed
-- [ ] 🙋 no, because I need help
 
 ## Added to documentation?
 
