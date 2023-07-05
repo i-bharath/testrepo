@@ -12,16 +12,16 @@
 
 ## What type of PR is this? (check all applicable)
 
-- [] 🍕 Feature
-- [] 🐛 Bug Fix
-- [] 📝 Documentation Update
-- [] 🧑‍💻 Code Refactor
-- [] 🔥 Performance Improvements
-- [] ✅ Test
-- [] 🤖 Build
-- [] 🔁 CI
-- [] 📦 Release
-- [] ⏩ Revert
+- [ ] 🍕 Feature
+- [ ] 🐛 Bug Fix
+- [ ] 📝 Documentation Update
+- [ ] 🧑‍💻 Code Refactor
+- [ ] 🔥 Performance Improvements
+- [ ] ✅ Test
+- [ ] 🤖 Build
+- [ ] 🔁 CI
+- [ ] 📦 Release
+- [ ] ⏩ Revert
 
 ## Description
 
@@ -39,20 +39,20 @@ https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-git
 
 ## Added tests?
 
-- [] 👍 yes
-- [] 🙅 no, because they aren't needed
-- [] 🙋 no, because I need help
+- [ ] 👍 yes
+- [ ] 🙅 no, because they aren't needed
+- [ ] 🙋 no, because I need help
 
 ## Added to documentation?
 
-- [] 📜 yes, in swagger/scribe.
-- [] 📓 yes, in confluence.
-- [] 🙅 no, documentation not needed
+- [ ] 📜 yes, in swagger/scribe.
+- [ ] 📓 yes, in confluence.
+- [ ] 🙅 no, documentation not needed
 
 ## Is there any global package changes?
 
-- [] ✅ yes
-- [] 🙅 no
+- [ ] ✅ yes
+- [ ] 🙅 no
 
 
 <details>
@@ -61,12 +61,12 @@ https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-git
 
 ### Name of the package : <input>
 ### Is the changes are merged to main in package?
-- [] ✅ yes
-- [] 🙅 no
+- [ ] ✅ yes
+- [ ] 🙅 no
 ### Is it tested?
-- [] 💻Local
-- [] 🔬Test
-- [] 🤖Api Automation
+- [ ] 💻Local
+- [ ] 🔬Test
+- [ ] 🤖Api Automation
 </details>
 
 ## [optional] Are there any post-deployment tasks we need to perform?
