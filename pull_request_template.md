@@ -16,6 +16,7 @@
 - [ ] 🐛 Bug Fix
 - [ ] 📝 Documentation Update
 - [ ] 🧑‍💻 Code Refactor
+- [ ] 🚀 Enhancement
 - [ ] 🔥 Performance Improvements
 - [ ] ✅ Test
 - [ ] 🤖 Build
@@ -27,7 +28,7 @@
 
 <!-- 
 Please do not leave this blank 
-This PR [adds/removes/fixes/replaces] the [feature/bug/etc]. 
+This PR [adds/removes/fixes/replaces ] the [feature/bug/etc ]. 
 -->
 
 ## Related Tickets & Documents
@@ -41,6 +42,7 @@ https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-git
 
 - [ ] 👍 yes
 - [ ] 🙅 no, because they aren't needed
+- [ ] 🙋 no, because I need help
 
 ## Added to documentation?
 
@@ -63,11 +65,11 @@ https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-git
 - [ ] ✅ yes
 - [ ] 🙅 no
 ### Is it tested?
-- [ ] 💻Local
-- [ ] 🔬Test
-- [ ] 🤖Api Automation
+- [ ] 💻 Local
+- [ ] 🔬 Test
+- [ ] 🤖 Api Automation
 </details>
 
-## [optional] Are there any post-deployment tasks we need to perform?
-
+## [optional ] Are there any post-deployment tasks we need to perform?
+<textarea></textarea>
 <!-- note: PRs with deleted sections will be marked invalid -->
