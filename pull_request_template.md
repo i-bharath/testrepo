@@ -40,7 +40,7 @@ https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-git
 
 ## Added tests?
 
-- [ ] 👍 yes
+- [ ] ✅ yes
 - [ ] 🙅 no, because they aren't needed
 - [ ] 🙋 no, because I need help
 
@@ -60,18 +60,30 @@ https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-git
 
 <summary>If Yes, fill the below</summary>
 
-### Name of the package : <input type="text" placeholder="Enter Package Name/URL">
+### Name of the package : <input>
 ### Is the changes are merged to main in package?
 - [ ] ✅ yes
 - [ ] 🙅 no
 ### Is it tested?
-- [ ] 💻 Local
-- [ ] 🔬 Test
-- [ ] 🤖 Api Automation
+- [ ] 💻Local
+- [ ] 🔬Test
+- [ ] 🤖Api Automation
 </details>
 
-## [optional ] Are there any post-deployment tasks we need to perform?
-<textarea rows="4" cols="50">
-Fill Your Answer Here
-</textarea>
+## Are there any pre/post deployment tasks?
+
+- [ ] ✅ yes
+- [ ] 🙅 no
+
+
+<details>
+
+<summary>If Yes, fill the below</summary>
+
+#### Add in your tasks in markdown format, consider using checkboxes or other relevant types.
+
+### [optional ] Are there any pre-deployment tasks we need to perform?
+
+### [optional ] Are there any post-deployment tasks we need to perform?
+
 <!-- note: PRs with deleted sections will be marked invalid -->
