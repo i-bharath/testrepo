@@ -60,7 +60,7 @@ https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-git
 
 <summary>If Yes, fill the below</summary>
 
-### Name of the package : <input>
+### Name of the package : <input type="text" placeholder="Enter Package Name/URL">
 ### Is the changes are merged to main in package?
 - [ ] ✅ yes
 - [ ] 🙅 no
@@ -71,5 +71,7 @@ https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-git
 </details>
 
 ## [optional ] Are there any post-deployment tasks we need to perform?
-<textarea></textarea>
+<textarea rows="4" cols="50">
+Fill Your Answer Here
+</textarea>
 <!-- note: PRs with deleted sections will be marked invalid -->
